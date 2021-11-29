@@ -5,13 +5,11 @@ function Profil() {
         <div className="profil mb5">
             <h2>Profil</h2>
             <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae natus
-                nostrum tenetur, quidem perspiciatis excepturi porro sequi dolorem magni
-                sapiente molestiae nihil non ducimus earum blanditiis rerum quas
-                accusamus nemo! Tempora repudiandae et doloremque delectus vitae magnam
-                neque reprehenderit, possimus dicta in fugit rerum. Sunt quaerat,
-                aliquid molestias blanditiis atque nobis ut, pariatur provident
-                assumenda dignissimos enim optio placeat dolor.
+                Fort d’une expérience professionnelle de 22 ans en métallurgie,
+                j’ai décidé de faire une reconversion en t’en que développer Web.
+                Depuis 2019  suite à plusieurs refus de demande de formation  via le FONGECIF,
+                J’ai décidé de me former en autodidacte en parallèle de ma vie professionnel et familial.
+                Le code est devenu une passion.
             </p>
         </div>
     )

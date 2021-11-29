@@ -1,11 +1,11 @@
-import "./App.css";
-import User from "./components/User";
-import Skills from "./components/Skills";
-import Profil from "./components/Profil";
-import FormationsExperiences from "./components/FormationsExperiences";
+import "./App.css"
+import User from "./components/User"
+import Skills from "./components/Skills"
+import Profil from "./components/Profil"
+import FormationsExperiences from "./components/FormationsExperiences"
 import DarkMode from "./components/DarkMode"
 import PictureAsPdfIcon from "@material-ui/icons/PictureAsPdf"
-import { Preview, print } from 'react-html2pdf';
+import { Preview, print } from 'react-html2pdf'
 
 function App() {
   const handleGenerateCv = () => {

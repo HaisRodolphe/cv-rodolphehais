@@ -1,18 +1,17 @@
-import React from "react";
+import React from "react"
 import "./User.css"
-
-import HomeIcon from '@mui/icons-material/Home';
-import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
-import MailIcon from '@mui/icons-material/Mail';
-import EventIcon from '@mui/icons-material/Event';
-import LocationOnIcon from '@mui/icons-material/LocationOn';
+import HomeIcon from '@material-ui/icons/Home'
+import PhoneIcon from '@material-ui/icons/Phone'
+import MailIcon from '@material-ui/icons/Mail'
+import EventIcon from '@material-ui/icons/Event'
+import LocationOnIcon from '@material-ui/icons/LocationOn'
 
 
 
 function User() {
     return (
         <div className="user">
-            <img src="./images/Photomoi.jpg" alt="" className="user__avatar" />
+            <img src="./img/haisrodolphe.jpg" alt="" className="user__avatar" />
             <h1 className="user__name">Rodolphe HAIS</h1>
             <p className="user__profession">Développeur Web</p>
             <div className="user__infos">
@@ -20,7 +19,7 @@ function User() {
                     27, rue de la sablonniére 28250 Senonches
                 </p>
                 <p className="user__info">
-                    <a href="tel:+33628407987"><LocalPhoneIcon />
+                    <a href="tel:+33628407987"><PhoneIcon />
                         0628407987
                     </a>
                 </p>
@@ -38,6 +37,8 @@ function User() {
 
 
         </div>
+
+
     )
 }
 

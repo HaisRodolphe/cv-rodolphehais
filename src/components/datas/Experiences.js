@@ -2,13 +2,13 @@ export const dataExperiences = [
       {
             id: 1,
             title: "Développeur Web - Full Stack",
-            date: "12/03/2017 - 21/08/2020",
-            location: "Paris 13ème",
-            text: `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam facilis at iure culpa inventore consequatur.`,
+            date: "01/01/2022",
+            location: "Paris, Bretagne, Eure et loir",
+            text: `En recherche d'une premier experience dans le domaine du développement web, j'aimerai mettre en pratique se que j'ai appris.`,
             missions: [
                   {
                         id: 1,
-                        title: "mission 1",
+                        title: "Symfony 5",
                   },
                   {
                         id: 2,
@@ -22,43 +22,25 @@ export const dataExperiences = [
       },
       {
             id: 2,
-            title: "Développeur Web",
-            date: "23/01/2012 - 05/06/2016",
-            location: "Montpellier",
-            text: `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam facilis at iure culpa inventore consequatur.`,
+            title: "Dessinateur industriel",
+            date: "01/08/2014 - Actuel",
+            location: "Fontaine la guyon",
+            text: `Deviseur chiffreur, je réalise les chiffrages pour un portefeuille de 1.5 ML à  2 ML€ .
+            Je réalise des dessins de pièces 3D sous SolidWorks et la mise en plan 2D de fabrication et d’assemblage.
+            Je conçois, développe et réalise la mise en fabrication des pièces mécaniques, tôlerie, tuyauterie et plasturgie,
+                        suivant un cahier des charges en respectant les normes ISO en vigueur. Ainsi que les nomenclatures de fabrication.`,
             missions: [
                   {
                         id: 1,
-                        title: "mission 1",
+                        title: "Deviseur chiffreur",
                   },
                   {
                         id: 2,
-                        title: "mission 1",
+                        title: "Technicien bureau d’études",
                   },
                   {
                         id: 3,
-                        title: "mission 1",
-                  },
-            ],
-      },
-      {
-            id: 3,
-            title: "Intégrateur Front End",
-            date: "06/06/2008 - 21/02/2011",
-            location: "Lyon",
-            text: `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam facilis at iure culpa inventore consequatur.`,
-            missions: [
-                  {
-                        id: 1,
-                        title: "mission 1",
-                  },
-                  {
-                        id: 2,
-                        title: "mission 1",
-                  },
-                  {
-                        id: 3,
-                        title: "mission 1",
+                        title: "Méthodes",
                   },
             ],
       },

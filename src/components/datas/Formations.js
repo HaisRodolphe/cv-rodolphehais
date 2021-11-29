@@ -1,21 +1,21 @@
 const dataFormations = [
     {
         id: 1,
-        title: "Formation Développeur Web",
-        date: "12/03/2004 - 05/07/2012",
-        location: "Montpellier",
+        title: "Formation Symfony 5",
+        date: "01/01/2021 - 31/11/2020",
+        location: "A distance",
     },
     {
         id: 2,
-        title: "IUT Montpellier",
-        date: "18/02/2000 - 21/07/2004",
-        location: "Université Paris 11ème",
+        title: "Formation Integrateur web",
+        date: "01/09/2019 - 31/12/2020",
+        location: "A distance",
     },
     {
         id: 3,
-        title: "Baccalauréat",
-        date: "04/03/1996 - 16/11/2000",
-        location: "Lycée Paris 13ème",
+        title: "BTS Productique Mécanique Option Usinage",
+        date: "01/09/2000 - 31/07/2002",
+        location: "Lycée Jehan beauce",
     },
 ]
 export default dataFormations

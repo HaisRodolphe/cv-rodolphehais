@@ -1,16 +1,11 @@
 {
-  "short_name": "Rodolphe HAIS CV",
-  "name": "Rodolphe HAIS - CV en ligne",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "./images/Photomoi.jpg",
-      "type": "images/jpg",
-      "sizes": "540x720"
     }
   ],
   "start_url": ".",

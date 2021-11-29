@@ -42,12 +42,11 @@ function DarkMode() {
             id="darkMode"
             onClick={e => switchTheme(e)}
         >
-            {themeMode === "light" || theme === "light" ? (
+            {themeMode === "light" || theme === "dark" ? (
                 <Brightness2OutlinedIcon />
             ) : (
                 <WbSunnyOutlinedIcon />
             )}
-
         </button>
     )
 }
