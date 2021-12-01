@@ -23,6 +23,7 @@ function Skills() {
                 <img src="./img/php_pgelephant_ph_6030.png" alt="" className="" />
                 <img src="./img/file_type_php_icon_130266.png" alt="" className="" />
                 <img src="./img/file_type_vscode_icon_130084.png" alt="" className="" />
+                <img src="./img/bootstrap_plain_wordmark_logo_icon_146620.png" alt="" className="" />
                 {/* <Skill title="Html" rating="4" />
                 <Skill title="CSS" rating="5" />
                 <Skill title="Javascript" rating="5" />

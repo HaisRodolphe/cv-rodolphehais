@@ -2,21 +2,37 @@ export const dataExperiences = [
       {
             id: 1,
             title: "Développeur Web - Full Stack",
-            date: "01/01/2022",
-            location: "Paris, Bretagne, Eure et loir",
-            text: `En recherche d'une premier experience dans le domaine du développement web, j'aimerai mettre en pratique se que j'ai appris.`,
+            date: "05/03/2021-30/10/2021",
+            location: "Senonches",
+            text: `Projet web E-commerce Symfony 5.`,
             missions: [
                   {
                         id: 1,
-                        title: "Symfony 5",
+                        title: "Partie Front/design/correction des bugs",
                   },
                   {
                         id: 2,
-                        title: "mission 1",
+                        title: "Data-Binding/Gestion du Store",
                   },
                   {
                         id: 3,
-                        title: "mission 1",
+                        title: "La familiarisation avec les différents outils de l'app.",
+                  },
+                  {
+                        id: 4,
+                        title: "(Front/Back)",
+                  },
+                  {
+                        id: 5,
+                        title: "Gestion de la BDD (MySQL)",
+                  },
+                  {
+                        id: 5,
+                        title: "Paiemenent stripe, Paypal, Mailjet",
+                  },
+                  {
+                        id: 5,
+                        title: "Mise en production avec Heroku",
                   },
             ],
       },
