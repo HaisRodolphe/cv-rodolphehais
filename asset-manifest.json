@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cv-rodolphehais/static/css/main.f2fd89bf.chunk.css",
+    "main.js": "/cv-rodolphehais/static/js/main.0a020c47.chunk.js",
+    "main.js.map": "/cv-rodolphehais/static/js/main.0a020c47.chunk.js.map",
+    "runtime-main.js": "/cv-rodolphehais/static/js/runtime-main.f8813a42.js",
+    "runtime-main.js.map": "/cv-rodolphehais/static/js/runtime-main.f8813a42.js.map",
+    "static/js/2.562120d9.chunk.js": "/cv-rodolphehais/static/js/2.562120d9.chunk.js",
+    "static/js/2.562120d9.chunk.js.map": "/cv-rodolphehais/static/js/2.562120d9.chunk.js.map",
+    "index.html": "/cv-rodolphehais/index.html",
+    "static/css/main.f2fd89bf.chunk.css.map": "/cv-rodolphehais/static/css/main.f2fd89bf.chunk.css.map",
+    "static/js/2.562120d9.chunk.js.LICENSE.txt": "/cv-rodolphehais/static/js/2.562120d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8813a42.js",
+    "static/js/2.562120d9.chunk.js",
+    "static/css/main.f2fd89bf.chunk.css",
+    "static/js/main.0a020c47.chunk.js"
+  ]
+}
